@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FTC_Outreach.iml" filepath="$PROJECT_DIR$/FTC_Outreach.iml" />
       <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftc_app_v4.iml" filepath="$PROJECT_DIR$/ftc_app_v4.iml" />
     </modules>
   </component>
 </project>
